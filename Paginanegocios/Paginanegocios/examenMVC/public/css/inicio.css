@@ -1,0 +1,56 @@
+.contenido {
+    box-sizing: border-box;
+    width: 1030px;
+    height: 1px;
+    left: 90px;
+    top: 100px;
+    position: absolute;
+    
+
+}
+.contenido h1 {
+    font-size: 80px;
+    color: #FFF;
+    font-family:Times New Roman, serif;
+    text-align: center;
+}
+
+#imagenVision{
+     position:relative;
+     float:left;
+    opacity: 0.95;
+    margin-left: 1em;
+    top:207px;
+}
+#imagenVision .titulo{
+  position:relative;
+  width:320px;
+  top:-27em;
+  left:148px;
+  margin-left: 9em;
+  }
+  
+  #imagenVision img{
+      position: relative;
+    width: 61.5em;
+    left: 10em;
+    top: -2em;
+  }
+
+
+
+  #imagenContactenos{
+    position: relative;
+    width: 61.5em;
+    left: 14em;
+    top: 12em;
+  }
+  #contactenos{
+    background-color: #2A6B6B;
+    position: relative;
+    opacity:0.7;
+    width: 13em;
+    left: 58em;
+    top: -5em;
+    padding: 13px;
+  }

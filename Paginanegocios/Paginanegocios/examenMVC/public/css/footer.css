@@ -1,0 +1,39 @@
+.footer{
+    
+    box-sizing: border-box;
+    width: 1250px;
+    height: 110px;    
+    background-color: #000;
+    font-size: 0.75em;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0 0 0.0833333em #000;/* 1*/
+    padding-bottom: 1em;
+    margin-top: 80em; 
+    padding-bottom: 4em;
+    padding-top: 2em;
+}
+
+.footer ul{
+    display: inline-block;
+    padding: 0px;
+    margin-left: 25px;
+    min-width: 10em;
+}
+
+.footer ul li{
+    list-style: none;
+    margin-bottom: 0.25em;
+}
+
+.footer ul li:first-child{
+}
+.footer ul li b{
+    font-size: 1.1666667em;
+    color: #CCC;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: inherit;
+}

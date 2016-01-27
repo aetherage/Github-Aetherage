@@ -1,0 +1,154 @@
+body{
+    font-family: lucida, helvetica, sans-serif;
+    font-size:16px;
+    margin: 0;
+    padding: 0;
+    min-width: 57.5em;
+}
+
+#header{
+    opacity: 0.2;
+}
+
+
+
+.EspacioCentro{
+    position: absolute;
+    top: 13em;
+    left: 15em;
+    width: 50em;
+    min-height: 22em;
+    background-color: white;
+}
+
+.EspacioCentro2{
+    position: absolute;
+    top: 13em;
+    left: 25em;
+    width: 30em;
+    margin-bottom: 1em;
+    min-height: 22em;
+    color: white;
+}
+
+.EspacioCentro3{
+    position: absolute;
+    top: 13em;
+    left: 25.5em;
+    width: 30em;
+    margin-bottom: 1em;
+    min-height: 26em;
+    background-color: #187B5F;
+    opacity: 0.7;
+}
+
+.EspacioCentro2 .Formulario{
+    position: relative;
+    top: 0em;
+    left: 10em;
+    width: 12em;
+    margin-bottom: 2em;
+}
+
+.EspacioCentro2 .cont {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    margin-left: 1em;
+}
+
+.EspacioCentro .Formulario{
+    position: relative;
+    top: 0em;
+    left: 20em;
+    width: 12em;
+}
+
+#header h1{
+    position: absolute;
+    color:white;
+    background-color: white;
+    border-right: dashed;
+    margin-top: 50px;
+    margin-left: 460px;
+}
+
+#cuerpo2{
+    position: absolute;
+    margin-top: 37em;
+    margin-left: 120px;
+    margin-bottom: 2em;
+    background-color: #2A6B6B;
+    border: 5px #08F6FA;
+    width: 1071px;
+    color: white;
+    border-radius: 1em;  
+}
+
+#cuerpo2 h1{
+    color:white;
+    text-align: center;
+    margin-top: 1em;
+}
+
+#cuerpo2 p{
+    font-size: 20px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+#slider { 
+    position: absolute;
+    overflow: hidden;
+    width: 640px; 
+    height: 386px; 
+    border:10px solid #2A6B6B;
+    border-radius: 0px;
+    border-right: none;
+    margin: 182px auto 15px 7.5em;
+    padding: 0;
+}
+
+#slider > div {
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+#slider img {
+    width:100%;
+    /*max-width: auto;*/
+    min-height:300px;
+    margin:0;
+    padding:0; 
+    border:0;
+}
+
+#slider2 { 
+    position: absolute;
+    overflow: hidden;
+    width: 427px; 
+    height: 387px; 
+    border:10px solid #2A6B6B;
+    border-radius: 0px;
+    border-left: none;
+    margin: 181px auto 15px 47em;
+    padding: 0;
+}
+
+#slider2 > div {
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+#slider2 img {
+    width:100%;
+    max-width: auto;
+    min-height:300px;
+    margin:0;
+    padding:0; 
+    border:0;
+}

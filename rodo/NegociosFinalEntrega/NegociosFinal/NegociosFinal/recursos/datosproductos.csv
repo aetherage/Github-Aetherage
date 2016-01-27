@@ -1,0 +1,20 @@
+idproduc,nom_produc,categoria_produc,tipo_produc,estado_produc,imagen_produc,detalle_produc
+1,"Playera Tipo Polo",Playeras,Polo,1,public/img/produc1/playeratipopolo1.jpg,index.php?page=detalle1
+2,"Playera Cuello Redondo",Playeras,"Cuello Redondo",1,public/img/produc2/playeraredondo1.JPG,index.php?page=detalle2
+3,"Uniforme Escolar",Uniformes,Escolar,1,public/img/produc3/uniformeescolar1.png,index.php?page=detalle3
+4,"Uniforme Secretarial",Uniformes,Secretarial,1,public/img/produc4/uniformesecretarial1.png,index.php?page=detalle4
+5,"Uniforme Ejecutivo",Uniformes,Ejecutivo,1,public/img/produc5/uniformeejecutivo1.jpg,index.php?page=detalle5
+6,"Uniforme Industrial",Uniformes,Industrial,1,public/img/produc6/uniformeindustrial1.PNG,index.php?page=detalle6
+7,"Bata de Laboratorio",Batas,NULL,1,public/img/produc7/batalaboratorio1.jpg,index.php?page=detalle7
+8,Chalecos,Chalecos,NULL,1,public/img/produc8/chaleco1.jpg,index.php?page=detalle8
+9,Overoles,Overoles,NULL,1,public/img/produc9/overole1.jpg,index.php?page=detalle9
+10,Gorras,Gorras,NULL,1,public/img/produc10/gorra1.jpg,index.php?page=detalle10
+11,Chamarras,Chamarras,NULL,1,public/img/produc11/Chamarra1.jpg,index.php?page=detalle11
+12,Maletines,Maletas,NULL,1,public/img/produc12/maletin1.jpg,index.php?page=detalle12
+13,Delantales,Delantales,NULL,1,public/img/produc13/delantal1.jpg,index.php?page=detalle13
+14,Toallas,Toallas,NULL,1,public/img/produc14/toalla1.png,index.php?page=detalle14
+15,Vasos,Otros,NULL,1,public/img/produc15/vasos1.png,index.php?page=detalle15
+16,Termos,Otros,NULL,1,public/img/produc16/termo1.jpg,index.php?page=detalle16
+17,Plumas,Otros,NULL,1,public/img/produc17/pluma1.jpg,index.php?page=detalle17
+18,Tazas,Otros,NULL,1,public/img/produc18/taza1.png,index.php?page=detalle18
+19,Llaveros,Otros,NULL,1,public/img/produc19/llavero1.png,index.php?page=detalle19
